@@ -1,6 +1,4 @@
-#Problem 4 and Problem 5
-
-# First:Solving Problem 4
+# Extrcating similar regions in Human Chr4 and Mouse Chr 3, 5, 8. First we compare chromosoms and after that e compare just coding sites.
 require(BSgenome)
 require(TxDb.Hsapiens.UCSC.hg19.knownGene)
 require(ggplot2)
