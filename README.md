@@ -10,7 +10,7 @@ For example, you can see the result when the input is PUSL1 gene. It is obvious 
 
 
 ## Homology
-The goal is extrcating similar regions between Human Chromosom 4 and Mouse Chromosoms 3, 5, 8. First, we are comparing chromosoms and atfer coding sites have been compared. 
+The goal is extrcating similar regions between Human Chromosom 4 and Mouse Chromosoms 3, 5, 8. First, we are comparing chromosoms and atfer that coding sites have been compared. 
 
 ![alt text](https://github.com/HFooladi/Genomics_Visualization/blob/master/Homology/Homology1.JPG)
 ![alt text](https://github.com/HFooladi/Genomics_Visualization/blob/master/Homology/Coding_Site.JPG)
